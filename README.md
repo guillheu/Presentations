@@ -1,4 +1,4 @@
-# GleamGatheringPresentations
+# Presentations
 
 ## 2026
 ### Gleam Gathering
